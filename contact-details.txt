@@ -1,2 +1,2 @@
-name: first last
-email: name@email.com
+name: Chen Meller
+email: chen.meler94@gmail.com
